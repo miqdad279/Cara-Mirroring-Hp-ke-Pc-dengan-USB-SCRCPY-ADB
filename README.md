@@ -1,4 +1,4 @@
-# Cara-Mirroring-Hp-ke-Pc-dengan-USB-SCRCPY-ADB
+# Cara-Mirroring Hp ke Pc dengan USB (SCRCPY+ADB)
 
 Hi! Perkenalkan aku Miqdad Abdillah, di tulisan ini aku akan berbagi ke kalian semua bagaimana caranya mirroring hp (android) ke pc tanpa delay!
 
